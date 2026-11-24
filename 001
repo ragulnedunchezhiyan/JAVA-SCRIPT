@@ -1,0 +1,6 @@
+<!doctype html>
+<html>
+	<body>
+		<button type="button" onclick="alert('Hello')">Say hello</button>
+	</body>
+</html>
